@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332875837595",
+    "project_id": "angelic-lattice-371606",
+    "storage_bucket": "angelic-lattice-371606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332875837595:android:a9803fdcb3d085ca17963e",
+        "android_client_info": {
+          "package_name": "com.example.images_pikcker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332875837595-pbq3lmffj794me6svt2j6dpr0j5h8fm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf09WRNqBcKnDnHTnhvsKpNVj_tva01ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332875837595-pbq3lmffj794me6svt2j6dpr0j5h8fm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
